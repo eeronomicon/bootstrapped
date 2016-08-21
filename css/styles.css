@@ -1,6 +1,7 @@
 .grid {
   padding-top: 30px;
-  height: 200px;
+  padding-bottom: 20px;
+  min-height: 200px;
   background-color: #ddd;
 }
 .footer {
